@@ -6,11 +6,11 @@ Using Google Vision API, our application predicts the facial emotions of the per
 image. Using similar patterns of emotion, the person’s happy moments pictures can be made collage together.
 
 #### Workflow
-FlowDiagram.png
+
 ![Flow Diagrom dialog](https://github.com/nishamizh/facebookGoolgeApp/blob/main/FlowDiagram.png)<br>
 
 #### Sample
-collage.png
+
 ![collage.png](https://github.com/nishamizh/facebookGoolgeApp/blob/main/collage.png)<br>
 
 
