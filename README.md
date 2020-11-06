@@ -11,6 +11,10 @@ image. Using similar patterns of emotion, the person’s happy moments pictures 
 
 #### Sample
 
+![collage.png](https://github.com/nishamizh/facebookGoolgeApp/blob/main/applicationGUI.png)<br>
+
+#### Sample
+
 ![collage.png](https://github.com/nishamizh/facebookGoolgeApp/blob/main/collage.png)<br>
 
 
